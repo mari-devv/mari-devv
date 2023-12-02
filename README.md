@@ -18,5 +18,5 @@ I'm Maria, a passionate and dedicated IT student. My interest lies in the world 
 
 <br>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=MariicotaDev&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariicotaDev&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=mari-devv&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-devv&layout=compact)
